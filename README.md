@@ -1,7 +1,3 @@
-Here's a polished GitHub description for your project:
-
----
-
 # 🌦️ Weather Prediction Machine Learning Model
 
 A comprehensive machine learning solution for predicting weather conditions using historical meteorological data. This project trains a Random Forest classifier to forecast weather summaries based on various atmospheric parameters.
